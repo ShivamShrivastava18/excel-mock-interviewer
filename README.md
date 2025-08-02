@@ -9,12 +9,16 @@ An AI-powered automated interview system for evaluating Excel proficiency using 
 ### 2. Start the Backend
 `
 chmod +x start_backend.sh
+`
+`
 ./start_backend.sh
 `
 
 ### 3. Start the Frontend (in a new terminal)
 `
 chmod +x start_frontend.sh
+`
+`
 ./start_frontend.sh
 `
 
