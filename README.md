@@ -8,14 +8,12 @@ An AI-powered automated interview system for evaluating Excel proficiency using 
 - NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 ### 2. Start the Backend
 \`\`\`bash
-# Make script executable and run
 chmod +x start_backend.sh
 ./start_backend.sh
 \`\`\`
 
 ### 3. Start the Frontend (in a new terminal)
 \`\`\`bash
-# Make script executable and run
 chmod +x start_frontend.sh
 ./start_frontend.sh
 \`\`\`
