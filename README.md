@@ -7,16 +7,16 @@ An AI-powered automated interview system for evaluating Excel proficiency using 
 - GROQ_API_KEY=your groq api key
 - NEXT_PUBLIC_BACKEND_URL=http://localhost:8000
 ### 2. Start the Backend
-\`\`\`
+`
 chmod +x start_backend.sh
 ./start_backend.sh
-\`\`\`
+`
 
 ### 3. Start the Frontend (in a new terminal)
-\`\`\`
+`
 chmod +x start_frontend.sh
 ./start_frontend.sh
-\`\`\`
+`
 
 ### 3. Access the Application
 - Frontend: http://localhost:3000
